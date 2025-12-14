@@ -9,6 +9,11 @@
 
 ---
 
+### 🌐 Meu Portfólio
+[![Portfólio](https://img.shields.io/badge/-Portfólio-9b59b6?style=flat&logo=github&logoColor=white)](https://coutixx.github.io/portfolio/)
+
+---
+
 ### 🛠️ Tecnologias que estou aprendendo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
