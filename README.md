@@ -1,4 +1,4 @@
-# Olá, eu sou o Coutixx 👋
+# Olá, eu sou o Henrique Coutinho 👋
 
 **Estudante de tecnologia, focado em desenvolvimento web e automação.**
 
