@@ -1,25 +1,23 @@
-# Olá, eu sou o Henrique Coutinho 👋
+# Henrique Coutinho
 
-**Estudante de tecnologia, focado em desenvolvimento web e automação.**
+**Desenvolvedor Web com foco em automação e novas tecnologias.**
 
-- 💻 Estudando: JavaScript, HTML, CSS, C#  
-- 🤖 Interessado em: Inteligência Artificial, automação e novas tecnologias  
-- 🌱 Sempre aprendendo e testando coisas novas  
+- 💻 Stack: JavaScript, HTML, CSS, C#  
+- 🌱 Projetos práticos e experimentação constante  
 - 📍 Brasil  
 
 ---
 
-### 🌐 Meu Portfólio
+### 🌐 Portfólio
 [![Portfólio](https://img.shields.io/badge/-Portfólio-9b59b6?style=flat&logo=github&logoColor=white)](https://coutixx.github.io/portfolio/)
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### 🛠 Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C#](img.shields.io)
-
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
