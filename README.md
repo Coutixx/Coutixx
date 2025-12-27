@@ -2,7 +2,7 @@
 
 **Desenvolvedor Web com foco em automação e novas tecnologias.**
 
-- 💻 Stack: JavaScript, HTML, CSS, Node.js, C#  
+- 💻 Stack: C#, HTML, CSS, JavaScript  
 - 🌱 Projetos práticos e experimentação constante  
 - 📍 Brasil  
 
@@ -19,8 +19,3 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coutixx&show_icons=true&theme=default)
