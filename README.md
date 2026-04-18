@@ -1,83 +1,62 @@
-# Hi 👋, I'm Henrique Coutinho  
-**Junior Software Developer | Entry-Level | Open to Opportunities**
+# Hi 👋, I'm Henrique Coutinho
+**Software Developer | .NET Backend Specialist | Building Scalable SaaS Architectures**
 
-🇧🇷 Brazil | 🌍 Open to local, hybrid and remote roles  
+🇧🇷 Brazil | 🌍 Available for Remote, Hybrid, and Local Roles
 
-I’m a **junior software developer at the beginning of my career**, focused on learning through real projects and writing clean, understandable code.
+I am a software developer focused on building robust and scalable backend systems. Currently, I specialize in the **.NET Ecosystem**, applying advanced architectural patterns to solve real-world business problems.
 
-**Interested mainly in backend and web development using .NET.**
-
-I’m currently looking for my **first opportunity** as a developer, where I can **learn fast, contribute consistently, and grow with the team**.
+**Main Focus:** Clean Architecture, Multi-tenant Systems, and High-Performance APIs.
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Professional Focus
 
-- First **Junior / Entry-Level** role  
-- Hands-on learning with **real codebases**  
-- Open to **on-site, hybrid or remote**  
-
----
-
-## 🚀 How I develop myself
-
-- Study programming daily with a strong focus on practice  
-- Turn learning into code, not just theory  
-- Build small projects from start to finish  
-- Revisit and refactor old code to improve structure and readability  
-- Use Git daily to track progress and evolution  
+- **Backend Excellence:** Designing RESTful APIs with ASP.NET Core and .NET 10.
+- **Architectural Patterns:** Implementing Clean Architecture, Repository Pattern, and Dependency Injection.
+- **Data Integrity:** Database modeling with PostgreSQL and Entity Framework Core, focused on performance and isolation (Multi-tenancy).
+- **Modern DevOps:** Containerization with Docker for consistent development and production environments.
 
 ---
 
-## 🛠️ Tech Stack (Junior Level)
-
-### Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## 🛠️ Tech Stack
 
 ### Backend & Data
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
-![Entity%20Framework%20Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Scalar](https://img.shields.io/badge/Scalar-05bbff?style=for-the-badge&logo=scalar&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ---
 
-## 📂 Projects
+## 📂 Featured Work & Research
 
-On my GitHub you’ll find:
-- Small but complete projects  
-- Organized and readable code  
-- Frequent commits showing evolution  
-- Clear README files explaining what was built  
+Most of my deep architectural work is maintained in **private repositories** as part of long-term SaaS projects. However, my public profile reflects:
 
-Each repository reflects **real practice and continuous improvement**.
+- **Clean Architecture Boilerplates:** Implementing separation of concerns and maintainable code.
+- **Security First:** Implementation of JWT Authentication and Refresh Tokens.
+- **Scalability:** Research on Multi-tenancy isolation and Global Query Filters.
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for teams that value **code quality, rapid learning, and solid architecture**. If you're building something scalable, let's talk.
+
+📬 [in/henrique-coutinho-13a6b9342] | [henriqeiro@gmail.com]
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=coutixx&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutixx&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Coutixx&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutixx&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
-
----
-
-## 🤝 Opportunities
-
-Open to:
-- Junior / Entry-Level roles  
-- Internships & trainee programs  
-- Local companies (Brazil) and remote teams  
-
-📬 Feel free to explore my repositories or contact me through GitHub.
