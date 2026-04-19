@@ -50,7 +50,7 @@ Most of my deep architectural work is maintained in **private repositories** as 
 
 I'm looking for teams that value **code quality, rapid learning, and solid architecture**. If you're building something scalable, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-coutinho-13a6b9342) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hcoutinho-dev) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=henriqeiro@gmail.com)
 
 > 📬 **Contact:** <kbd>henriqeiro@gmail.com</kbd>
