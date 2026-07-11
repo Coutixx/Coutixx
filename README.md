@@ -36,19 +36,6 @@ I am a software developer focused on building robust and scalable backend system
 
 ---
 
-## 📂 Featured Projects
-
-🚀 **[SaaS Mensalidades MVP](https://github.com/Coutixx/saas-mensalidades-mvp )**
-- **Multi-tenant Architecture:** Engineered a robust data isolation system using **Global Query Filters** and **Expression Trees** in EF Core.
-- **Advanced Security:** Implemented a full JWT Authentication flow with Claims-based authorization.
-- **Scalable Design:** Built on **Clean Architecture** principles to ensure high maintainability and performance.
-
-💰 **[Family Finance API](https://github.com/Coutixx/family-finance.api )**
-- **API Engineering:** Developed a comprehensive RESTful API using **.NET 10** and **PostgreSQL**.
-- **Solid Patterns:** Applied Repository Pattern and Dependency Injection for a decoupled and testable codebase.
-
----
-
 ## 🤝 Let's Connect
 
 I'm looking for teams that value **code quality, rapid learning, and solid architecture**. If you're building something scalable, let's talk.
